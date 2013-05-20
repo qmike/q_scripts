@@ -2,7 +2,8 @@
  * q_scripts.js
  *
  * q_scripts.js is a Michał "QMike" Machnikowski useful script libraries
- * * Q_CrossBrowser is a browser name and version detector, add's to <html> tag a class
+ * 
+ * Q_CrossBrowser is a browser name and version detector, add's to <html> tag a class
  *
  * Copyright 2012-2013 Michał "QMike" Machnikowski
  *
